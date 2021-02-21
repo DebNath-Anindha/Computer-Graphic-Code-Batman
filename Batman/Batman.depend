@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1612694344 source:d:\codeblocks files\batman\main.cpp
+	<windows.h>
+	<GL/gl.h>
+	<GL/glut.h>
+
+1490206725 c:\program files (x86)\codeblocks\mingw\include\gl\gl.h
+
+1433670714 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1493182202 c:\program files (x86)\codeblocks\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
